@@ -1,4 +1,3 @@
-@'
 name: Data and Model Testing CI
 
 on:
@@ -27,4 +26,3 @@ jobs:
 
       - name: Run tests
         run: pytest tests/
-'@ > .github\workflows\ci.yml
