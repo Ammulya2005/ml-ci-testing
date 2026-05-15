@@ -1,0 +1,9 @@
+order_id,customer_name,email,phone,address,city,pincode,product,amount,payment_mode
+ORD001,Aarav Sharma,aarav.sharma@gmail.com,9812345678,12 MG Road,Mumbai,400001,Laptop,65000,Credit Card
+ORD002,Priya Mehta,priya.mehta@yahoo.com,9923456789,45 Park Street,Delhi,110001,Headphones,3500,UPI
+ORD003,Rohan Das,rohan.das@hotmail.com,9734567890,8 Anna Salai,Chennai,600001,Smartphone,45000,Debit Card
+ORD004,Kavita Singh,kavita.singh@gmail.com,9645678901,22 FC Road,Pune,411001,Tablet,28000,Net Banking
+ORD005,Suresh Iyer,suresh.iyer@gmail.com,9556789012,7 Brigade Road,Bangalore,560001,Smartwatch,12000,UPI
+ORD006,Meena Patel,meena.patel@yahoo.com,9467890123,33 Park Avenue,Ahmedabad,380001,Earbuds,2500,Credit Card
+ORD007,Vikram Tiwari,vikram.t@gmail.com,9378901234,5 Lake View,Kolkata,700001,Camera,35000,Debit Card
+ORD008,Pooja Nair,pooja.nair@hotmail.com,9289012345,18 Station Road,Hyderabad,500001,Keyboard,1800,UPI
